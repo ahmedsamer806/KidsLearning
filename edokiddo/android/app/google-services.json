@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928126001101",
+    "project_id": "kidslearning-93d0d",
+    "storage_bucket": "kidslearning-93d0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928126001101:android:3405b27bc6531e4d8fae84",
+        "android_client_info": {
+          "package_name": "com.example.edokiddo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928126001101-u5kipu1re13pqpohnqgqfmhen0ajuico.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHgdn2k9nwb-CxVeFPtUHpiZi1CbOHLBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928126001101-u5kipu1re13pqpohnqgqfmhen0ajuico.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
